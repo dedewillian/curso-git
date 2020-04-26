@@ -1,1 +1,4 @@
 Olá esse é o primeiro teste de criação de arquivo no linux.
+
+
+Depois de adicionado a StageArea, estou alterando o arquivo e vou tentar commitar com a nova alteração.
