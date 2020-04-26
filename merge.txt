@@ -1,4 +1,3 @@
-Tesrerge
-fwef
+Teste conflito branch developer
 
 Estou testando mais um merge.
